@@ -1,5 +1,8 @@
 site_name: arobertson.xyz
 
+repo_url: https://github.com/arobertsonxyz/arobertsonxyz.github.io
+
+
 theme:
   name: material
   language: en
